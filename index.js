@@ -14,4 +14,4 @@ function stringToArr(str){
 }
 
 console.log(stringToArr("aqrst,ukaei,ffooo"));
-console.log(stringToArr("qwer,tyui,asdf,ghjk"));
+console.log(stringToArr("qwer,tyui,asdf,ghjk")); 

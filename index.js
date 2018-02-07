@@ -1,7 +1,7 @@
-function strToArr(setering) {
+function strToArr(string) {
 
-    // console.log(setering); // aqrst,ukaei,ffooo
-    var arrSplit = setering.split(',')
+    // console.log(string); // aqrst,ukaei,ffooo
+    var arrSplit = string.split(',')
     // console.log(arrSplit); // [ 'aqrst', 'ukaei', 'ffooo' ]
     // console.log(arrSplit.length); // 3
 

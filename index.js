@@ -31,8 +31,7 @@ class StringToArray{
 }
 let input = "aqrst,ukaei,ffoo0"
 let input2 = "qwer,tyui,ffoo"
-let release0 = new StringToArray(input2
-)
+let release0 = new StringToArray(input2)
 
 release0.wordsCheckLength()
 release0.printBoard()
